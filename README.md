@@ -31,7 +31,7 @@ A feature-rich blog application built using **Django**, **Python**, **PostgreSQL
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/PalthiMalleswari/Django_Blog_Application.git  
-   cd django-blog-app
+   cd blog_project/blog_project/my_blog_site
 
 2. Create a virtual environment:
     ```bash
