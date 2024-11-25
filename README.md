@@ -27,7 +27,7 @@ A feature-rich blog application built using **Django**, **Python**, **PostgreSQL
 - **Database**: PostgreSQL  
 - **Frontend**: HTML, CSS, JavaScript
 ## Demo
-[video](https://www.youtube.com/watch?v=yX31lX5vg7c&t=8s)
+[video](https://youtu.be/KcJoYejCwic)
 
 ## Setup Instructions  
 1. Clone the repository:  
